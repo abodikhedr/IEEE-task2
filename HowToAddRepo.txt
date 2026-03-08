@@ -1,0 +1,5 @@
+first i create the file on my pc then i go to the file location in git bash or cmd then i type git init 
+next i right touch README.md then i do git add * next i do git commit -m "added a readme file"
+then i type git remote add origin https://github.com/abodikhedr/ad.git 
+now i git push origin master
+ 
